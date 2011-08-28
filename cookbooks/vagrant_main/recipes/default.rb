@@ -4,4 +4,7 @@
 require_recipe "build-essential"
 require_recipe "nodejs"
 require_recipe "nodejs::npm"
+require_recipe "npm-modules"
+require_recipe "mongodb"
+
 
